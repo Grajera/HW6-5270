@@ -31,9 +31,10 @@ def test_try_get_one_request_returns_key_and_text():
             {"Bucket": "b2", "Key": "0001.json"}
         )
         got = try_get_one_request(s3, "b2")
-        assert got is not None
-        assert got["key"] == "0001.json"
-        assert '"widgetId":"w1"' in got["text"]
+        obj = json.loads(got["text"])
+        assert obj["widgetId"] == "w1"
+        assert obj["type"] == "create"
+        assert obj["owner"] == "Alice"
 
 def test_delete_request_calls_delete_object():
     s3 = _s3()
