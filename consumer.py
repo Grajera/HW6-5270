@@ -25,7 +25,7 @@ def normalize_owner(owner: str) -> str:
     Replace spaces with dashes and convert to lowercase.
     Used to build predictable S3 keys.
     Input:  owner = "Alice Smith"
-    Output: "alice-smith"
+    Output: "alice-smith" 
     """
     return owner.replace(" ", "-").lower()
 
