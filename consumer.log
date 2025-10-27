@@ -1,0 +1,316 @@
+2025-10-27 04:04:02,352 INFO Found credentials from IAM Role: LabRole
+2025-10-27 04:04:02,492 INFO Consumer starting. Source=usu-cs5270-grajera-requests Dest=s3
+2025-10-27 04:04:02,674 INFO Processed request a1bc0f01-52d5-4249-92ab-b6b61e3809c7 type=create
+2025-10-27 04:04:02,787 INFO Processed request ac413eb5-79fc-4074-91e5-7867ff9b45a6 type=create
+2025-10-27 04:04:02,878 INFO Processed request 72326c82-985a-43c6-82a3-65101d008a01 type=create
+2025-10-27 04:04:02,977 INFO Processed request 056f9c6a-f282-423e-8cf3-1b9a892cbb13 type=create
+2025-10-27 04:04:03,066 INFO Processed request 4fc41aa5-939c-450e-9ebf-52f883d8323e type=create
+2025-10-27 04:04:03,134 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:04:03,134 INFO Processed request dce913af-873d-4f66-b2ad-ea3de6b63b47 type=update
+2025-10-27 04:04:03,236 INFO Processed request 6514c8bc-cd4a-4c29-b498-e4ae27bd6423 type=create
+2025-10-27 04:04:03,330 INFO Processed request 285212de-4283-4df4-ac2e-815d06b2316a type=create
+2025-10-27 04:04:03,392 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:04:03,392 INFO Processed request 72285ab5-4a7c-4065-a4a5-7d32715d8ab8 type=update
+2025-10-27 04:04:03,522 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:04:03,523 INFO Processed request 323b4040-fae1-41f4-ac65-b520dacf48fa type=update
+2025-10-27 04:05:03,202 INFO Shutting down on CTRL+C
+2025-10-27 04:05:14,490 INFO Found credentials from IAM Role: LabRole
+2025-10-27 04:05:14,616 INFO Consumer starting. Source=usu-cs5270-grajera-requests Dest=s3
+2025-10-27 04:05:31,001 INFO Processed request c97bc343-c6d6-4bdc-864a-bd307cf4cb2e type=create
+2025-10-27 04:05:31,111 INFO Processed request d91d4cb9-e74d-45ea-940a-bdaacd507c5f type=create
+2025-10-27 04:05:31,202 INFO Processed request 7aacb009-a67a-4bda-9afa-30a8eeb4ec08 type=create
+2025-10-27 04:05:31,429 INFO Processed request 154a7e7d-bb3d-4ff2-8dff-21a1b43f0461 type=create
+2025-10-27 04:05:31,566 INFO Processed request 0953bb91-d311-4304-affb-e339188487e2 type=create
+2025-10-27 04:05:31,629 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:31,629 INFO Processed request 54a3dc5f-b975-428d-9710-de53d9ed751c type=update
+2025-10-27 04:05:31,716 INFO Processed request 24eb7131-5681-4b3a-aef7-f9c480799805 type=create
+2025-10-27 04:05:31,800 INFO Processed request d84c31b3-c4be-4bc4-8bba-bde13a721d17 type=create
+2025-10-27 04:05:31,855 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:31,855 INFO Processed request b5186839-ecfb-4b24-91eb-2ee7d408bc80 type=delete
+2025-10-27 04:05:31,917 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:31,917 INFO Processed request e00e23f0-37e2-4f4e-a86b-55cc0ed76078 type=update
+2025-10-27 04:05:32,008 INFO Processed request 3a0fd26d-f898-422a-890e-22bf8e3e0aea type=create
+2025-10-27 04:05:32,099 INFO Processed request 3fc7ad3a-0f91-456a-be5f-44355f594ef7 type=create
+2025-10-27 04:05:32,156 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:32,156 INFO Processed request 36e58d49-b740-4650-b09e-1ff6cd299c57 type=update
+2025-10-27 04:05:32,332 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:32,333 INFO Processed request 7912d7d2-c910-4ee9-8f57-c40f81888a53 type=update
+2025-10-27 04:05:32,623 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:32,623 INFO Processed request 02c930f9-1c6a-4c68-8d0c-eb44c06f9034 type=update
+2025-10-27 04:05:32,844 INFO Processed request 2a829c7a-16b7-44f5-b644-0d4273648317 type=create
+2025-10-27 04:05:32,906 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:32,907 INFO Processed request ce71f8c3-f989-4592-8847-a71472b8f4fb type=update
+2025-10-27 04:05:33,109 INFO Processed request 1ef45947-b066-4970-b08c-f1c383825d9b type=create
+2025-10-27 04:05:33,287 INFO Processed request 8bce3d30-d714-449e-b971-cc0d98c65e72 type=create
+2025-10-27 04:05:33,380 INFO Processed request dc4b2088-09d1-46f1-a02b-84dafb401bdc type=create
+2025-10-27 04:05:33,494 INFO Processed request a64d1d9b-a3f3-469d-b37e-f3cd4628becc type=create
+2025-10-27 04:05:33,578 INFO Processed request a3e62430-b05a-434b-b354-bb6fdfb4535e type=create
+2025-10-27 04:05:33,672 INFO Processed request 7afb7197-c612-442a-9fac-a510a44e3e8d type=create
+2025-10-27 04:05:33,730 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:33,730 INFO Processed request 2c6de2e2-dbd0-4ff2-b037-d14d8502b001 type=update
+2025-10-27 04:05:33,854 INFO Processed request 0bfee280-eda9-43ec-9c2a-2143756078bd type=create
+2025-10-27 04:05:33,956 INFO Processed request 4048efd5-9b63-47c6-8a63-20ffbdcbc678 type=create
+2025-10-27 04:05:34,050 INFO Processed request 3bd7a528-50c1-439a-84cf-18b533b74443 type=create
+2025-10-27 04:05:34,137 INFO Processed request b7d6d535-4435-4e75-946f-49e80c88a36b type=create
+2025-10-27 04:05:34,232 INFO Processed request 53a69265-5de3-4ec7-bdfd-0203ebcd4de3 type=create
+2025-10-27 04:05:34,366 INFO Processed request afcaa8fb-3094-494b-b0a1-d9ff32330849 type=create
+2025-10-27 04:05:34,421 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:34,421 INFO Processed request 9711982e-a9cf-46fd-ad44-ba9ed77631e8 type=update
+2025-10-27 04:05:34,482 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:34,483 INFO Processed request 0ae06dc4-cf44-4f6e-9d7b-a5e00b68d726 type=update
+2025-10-27 04:05:34,602 INFO Processed request 7f2510f7-eeac-4042-9117-0d8762691376 type=create
+2025-10-27 04:05:34,698 INFO Processed request bdf170a8-22c6-4915-a0c8-4aad4948e2a1 type=create
+2025-10-27 04:05:34,768 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:34,768 INFO Processed request 0198df96-5ce1-49a4-91bf-a284afe6aac4 type=update
+2025-10-27 04:05:34,833 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:34,833 INFO Processed request ab09df5f-336e-4d4c-adf5-e00da44de9a2 type=update
+2025-10-27 04:05:34,917 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:34,917 INFO Processed request 3e9b9e3d-63ed-489e-9f6e-4e301dbd7162 type=update
+2025-10-27 04:05:35,108 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:35,108 INFO Processed request 1dbc1ce0-282d-4c31-87b6-15d4b0571e79 type=update
+2025-10-27 04:05:35,293 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:35,293 INFO Processed request 3b48087c-317a-4fd5-b618-51a4e33d7f47 type=update
+2025-10-27 04:05:35,606 INFO Processed request 8e33246e-9d1f-4c49-8c90-4e768ea12018 type=create
+2025-10-27 04:05:35,664 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:35,664 INFO Processed request 940ae15e-8cec-4c99-88da-7f700ba0299c type=delete
+2025-10-27 04:05:35,889 INFO Processed request d5f716eb-face-4175-8a83-63e4ab338305 type=create
+2025-10-27 04:05:35,996 INFO Processed request 61217ecb-1edc-4f72-88fb-6ce23cff80d3 type=create
+2025-10-27 04:05:36,105 INFO Processed request f466d578-03bb-45a4-a8c9-79d46f280a1b type=create
+2025-10-27 04:05:36,158 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:36,159 INFO Processed request 4471ae54-6cba-48f5-bac3-6b6dc02d21b3 type=update
+2025-10-27 04:05:36,241 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:36,241 INFO Processed request ca1baf7c-e3fa-40aa-aa93-862529c9934a type=update
+2025-10-27 04:05:36,450 INFO Processed request 2ed4cdc9-81d2-43b5-8c62-92684d625f56 type=create
+2025-10-27 04:05:36,511 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:36,511 INFO Processed request 2fe85998-caed-45ce-b74b-ad1872e6a053 type=update
+2025-10-27 04:05:36,697 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:36,698 INFO Processed request 0d74e39e-675a-4821-9aad-3783d3b402c1 type=update
+2025-10-27 04:05:37,015 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:37,015 INFO Processed request 51752d53-fa46-4cb4-86b4-9a2f4bb6eb8f type=update
+2025-10-27 04:05:37,224 INFO Processed request 50f923a7-3a63-4489-a912-ee1f480e9913 type=create
+2025-10-27 04:05:37,317 INFO Processed request 3b45d81e-d942-4b70-ae2a-dd9bce56efbc type=create
+2025-10-27 04:05:37,404 INFO Processed request 00e88fe3-58ac-4c64-b4ac-0bdf75ffa3d0 type=create
+2025-10-27 04:05:37,499 INFO Processed request 3692d5fd-e00b-46da-a194-2726471682dd type=create
+2025-10-27 04:05:37,589 INFO Processed request a048192b-1dea-47be-9ea5-2ee8170d034c type=create
+2025-10-27 04:05:37,649 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:37,649 INFO Processed request 53c0399d-96d4-41fd-ab84-488126fd6cc6 type=update
+2025-10-27 04:05:37,711 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:37,711 INFO Processed request 3d2c40c3-c925-4d4f-9ba9-1e6c2fb10363 type=update
+2025-10-27 04:05:37,924 INFO Processed request 2638e56e-8cb9-4719-b343-8567aba32662 type=create
+2025-10-27 04:05:37,975 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:37,976 INFO Processed request 2b90c102-6ab5-4109-a13c-e594e76a5211 type=delete
+2025-10-27 04:05:38,150 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:38,150 INFO Processed request 41b35f6a-8f6f-43b2-b9cb-541e458f6bff type=update
+2025-10-27 04:05:38,320 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:38,320 INFO Processed request f0372e84-7e1b-4b46-b747-e360903dfab8 type=delete
+2025-10-27 04:05:38,607 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:38,607 INFO Processed request a17df474-37e0-410d-9a30-6c6c88059e9c type=update
+2025-10-27 04:05:38,943 INFO Processed request d8c4f06c-b8fc-4f72-aa62-4f69beacea7b type=create
+2025-10-27 04:05:39,007 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:39,007 INFO Processed request ab0c3773-de89-4893-9308-37520ba5fb73 type=update
+2025-10-27 04:05:39,069 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:39,069 INFO Processed request bc16b14a-f11f-4ed8-a0ee-435a7b21f491 type=update
+2025-10-27 04:05:39,399 INFO Processed request adb6a5ae-f03f-4431-ad54-0a96d782ba33 type=create
+2025-10-27 04:05:39,450 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:39,450 INFO Processed request fd14a98f-148f-49c5-9414-a648e837f78e type=delete
+2025-10-27 04:05:39,660 INFO Processed request 2a14e8dc-9885-4907-bac5-7e0ab1842463 type=create
+2025-10-27 04:05:39,749 INFO Processed request 1218f7e2-2b48-4c3d-ae9d-25fcf5301641 type=create
+2025-10-27 04:05:39,852 INFO Processed request e62f6d73-ab1c-4ab4-851e-6d396f85c508 type=create
+2025-10-27 04:05:39,910 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:39,911 INFO Processed request aa201bcd-5155-4aef-9d72-64780f71d37b type=update
+2025-10-27 04:05:39,973 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:39,974 INFO Processed request 259c56a0-5dd1-44e0-b312-42f72e6571fc type=update
+2025-10-27 04:05:40,334 INFO Processed request 094a304e-fc60-430a-af74-2985e3ca99e2 type=create
+2025-10-27 04:05:40,396 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:40,396 INFO Processed request db9471f6-1788-4d54-8b76-f1a3dc0e3af3 type=update
+2025-10-27 04:05:40,451 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:40,451 INFO Processed request 31735c23-4708-4db2-a4f0-15c797c4210d type=update
+2025-10-27 04:05:40,782 INFO Processed request 2075a896-83f2-4a7d-8f1e-d91c27570025 type=create
+2025-10-27 04:05:40,845 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:40,845 INFO Processed request 7ecfbd7a-373a-4aec-8ec8-3ea55ae59564 type=update
+2025-10-27 04:05:41,087 INFO Processed request 02e4de51-cd7c-44f3-9850-43b0807dbb31 type=create
+2025-10-27 04:05:41,145 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:41,145 INFO Processed request 3868a9eb-3f7d-40d2-a1f3-39f49c7d8e58 type=delete
+2025-10-27 04:05:41,236 INFO Processed request d046de6b-6610-4615-82cc-83992a21c098 type=create
+2025-10-27 04:05:41,290 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:41,290 INFO Processed request 9a69b28f-a005-4615-8c4e-e4ea27bfcb5c type=delete
+2025-10-27 04:05:41,463 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:41,464 INFO Processed request caefaa5e-f7d6-4d00-9187-1862f42c939a type=delete
+2025-10-27 04:05:41,808 INFO Processed request 09ccf321-b152-47cc-a414-af57b32e124f type=create
+2025-10-27 04:05:41,869 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:41,869 INFO Processed request a8d2ac41-56e2-45ed-bb1f-8aca177034a3 type=update
+2025-10-27 04:05:42,086 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:42,086 INFO Processed request ac107e40-afd4-4a2b-9057-74ddf5cd7e3f type=update
+2025-10-27 04:05:42,295 INFO Processed request 25fedb79-bd3b-4073-b6fc-7e851cdd8b89 type=create
+2025-10-27 04:05:42,361 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:42,361 INFO Processed request 65c3226c-3219-47fb-b435-d0a85cf3ba78 type=update
+2025-10-27 04:05:42,538 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:42,538 INFO Processed request d49dcdd2-f55f-440f-90c5-27ddf033e37e type=update
+2025-10-27 04:05:42,718 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:42,718 INFO Processed request 4d7c9904-eadd-440e-ba61-f24ce298f112 type=update
+2025-10-27 04:05:43,011 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:43,011 INFO Processed request ceb862fd-fd6f-47e4-b5df-ff6de2c466c7 type=update
+2025-10-27 04:05:43,246 INFO Processed request 2486eec9-1c01-4b6f-b582-5a393dc86a97 type=create
+2025-10-27 04:05:43,306 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:43,306 INFO Processed request 073dd43a-f11f-4f12-a084-5009f4339e16 type=update
+2025-10-27 04:05:43,520 INFO Processed request 10fe3ec8-e19f-4de3-b042-63e329959296 type=create
+2025-10-27 04:05:43,583 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:43,583 INFO Processed request 9eb724e3-5208-4e71-ad1a-65718178687f type=update
+2025-10-27 04:05:43,765 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:43,765 INFO Processed request 0c2eb47e-2282-4a0c-8233-8c69b5828f29 type=update
+2025-10-27 04:05:43,953 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:43,954 INFO Processed request 0ae48404-545f-4d34-85a9-e1cc677ededa type=update
+2025-10-27 04:05:44,242 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:44,242 INFO Processed request d50e3f76-92db-4cef-a752-c50e48ed006a type=delete
+2025-10-27 04:05:44,487 INFO Processed request ccb86da3-da60-4328-8197-401fed48d6f8 type=create
+2025-10-27 04:05:44,589 INFO Processed request 77d7c944-01f9-45f3-a946-0d828eeb2c56 type=create
+2025-10-27 04:05:44,665 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:05:44,665 INFO Processed request 3e75ec60-1c7d-4ac5-ad8a-e8e6f103413e type=update
+2025-10-27 04:07:16,547 INFO Shutting down on CTRL+C
+2025-10-27 04:15:38,814 INFO Found credentials from IAM Role: LabRole
+2025-10-27 04:15:38,937 INFO Consumer starting. Source=usu-cs5270-grajera-requests Dest=s3
+2025-10-27 04:15:39,115 INFO Processed request 72537500-2e8e-44a7-8a64-a1aa0c9c69ee type=create
+2025-10-27 04:15:39,207 INFO Processed request 4a076d5d-bba0-43aa-9882-c1e83a8c05de type=create
+2025-10-27 04:15:39,310 INFO Processed request f9518f77-c9da-47b2-8abf-7b27c40eff34 type=create
+2025-10-27 04:15:39,415 INFO Processed request 6f7df452-9dd2-43c4-b640-36507063544a type=create
+2025-10-27 04:15:39,518 INFO Processed request f11ae4e7-a07f-4b79-9f14-13e586a596b8 type=create
+2025-10-27 04:15:39,648 INFO Processed request 21a82dde-6b13-48ab-9aae-3b0af8fca91a type=create
+2025-10-27 04:15:39,743 INFO Processed request ca8407cf-ac70-43e8-9d8b-8f1c5cf4244c type=create
+2025-10-27 04:15:39,862 INFO Processed request b2db551f-5a85-4fc9-bcd4-c7d795fed31f type=create
+2025-10-27 04:15:39,920 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:39,921 INFO Processed request 52879d49-fe0f-47cc-9975-0674ba0d8f1f type=update
+2025-10-27 04:15:40,032 INFO Processed request f5cd832a-fc78-4a45-8b2f-0e7afe9c7671 type=create
+2025-10-27 04:15:40,125 INFO Processed request cbe6cd2a-aff9-4c2d-a2a3-de6ce5d116ae type=create
+2025-10-27 04:15:40,239 INFO Processed request 67144643-3851-43a9-b066-2a9a77a49148 type=create
+2025-10-27 04:15:40,287 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:40,288 INFO Processed request 454766c0-c634-4278-9247-98afe66b2e63 type=update
+2025-10-27 04:15:40,422 INFO Processed request ae6b9718-3ee6-4786-9876-c07f841d6495 type=create
+2025-10-27 04:15:40,475 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:40,475 INFO Processed request 9c7e3144-c42b-4f88-b15f-45660f6e200b type=delete
+2025-10-27 04:15:40,536 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:40,536 INFO Processed request 9700f544-a234-4027-898e-50e973532e96 type=update
+2025-10-27 04:15:40,594 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:40,594 INFO Processed request e4617f00-24ab-4064-a0bf-42e280de8bae type=update
+2025-10-27 04:15:40,716 INFO Processed request 0e7a24d6-6e93-4899-af59-da672847b26c type=create
+2025-10-27 04:15:40,807 INFO Processed request 158b24dd-a16a-43a3-a2f8-0be64ed22bbd type=create
+2025-10-27 04:15:40,896 INFO Processed request 21087b01-bc74-4e6a-9270-ace3f1829b52 type=create
+2025-10-27 04:15:41,126 INFO Processed request 1db37c41-39d2-4259-aa4c-445eaacab683 type=create
+2025-10-27 04:15:41,180 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:41,180 INFO Processed request a08a0b73-d79c-400b-ba10-2b0f1e959a54 type=update
+2025-10-27 04:15:41,282 INFO Processed request 512f03db-26e4-496c-8e9b-00e964577447 type=create
+2025-10-27 04:15:41,515 INFO Processed request fd5836ff-38ba-4583-9587-9867fe4217ef type=create
+2025-10-27 04:15:41,578 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:41,578 INFO Processed request 82785b79-f7d2-4f06-97c7-bef810f2096a type=update
+2025-10-27 04:15:41,634 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:41,635 INFO Processed request 63d40d17-3631-41a1-aedb-a4b81078050b type=update
+2025-10-27 04:15:41,722 INFO Processed request 47b88a5c-6a9d-4ee2-9c37-dec3e6de6e47 type=create
+2025-10-27 04:15:41,824 INFO Processed request 46c73589-aa96-44d0-8f22-e5e932bcdc27 type=create
+2025-10-27 04:15:41,892 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:41,892 INFO Processed request 39559afe-9687-4853-86fa-58501e7bbcff type=update
+2025-10-27 04:15:42,120 INFO Processed request 85583817-7b55-4649-97ee-5fd2f81ee756 type=create
+2025-10-27 04:15:42,235 INFO Processed request 53e24750-6cd1-4bac-8695-8fe6892ce309 type=create
+2025-10-27 04:15:42,365 INFO Processed request f5168b91-1d7d-4537-acd0-a15a3b766399 type=create
+2025-10-27 04:15:42,424 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:42,424 INFO Processed request cd53bc0c-f4e4-4081-a5e3-f0f5e09ada10 type=update
+2025-10-27 04:15:42,563 INFO Processed request 0fe28be9-779b-46f5-84b1-672afc77b20c type=create
+2025-10-27 04:15:42,626 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:42,626 INFO Processed request da8c0649-458d-4207-a4d5-02e7d69b6954 type=delete
+2025-10-27 04:15:42,680 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:42,680 INFO Processed request 40a6438e-b4f5-4b54-89a9-64862d3d7591 type=update
+2025-10-27 04:15:42,803 INFO Processed request 1083ed68-b17a-446c-845d-42eb0c7ae90f type=create
+2025-10-27 04:15:42,930 INFO Processed request a123c598-4a43-4858-8807-08cd09a5a845 type=create
+2025-10-27 04:15:43,015 INFO Processed request 8ec4cdb6-4aea-449a-90fc-34d78a4ba478 type=create
+2025-10-27 04:15:43,079 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:43,079 INFO Processed request bb2a9a50-5f92-4f2d-89de-fde45df61e44 type=update
+2025-10-27 04:15:43,167 INFO Processed request e85adc80-837d-4b7b-b957-c70d350055c8 type=create
+2025-10-27 04:15:43,231 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:43,231 INFO Processed request b1ea58a4-a9d1-4088-bfca-852e378c7ce5 type=update
+2025-10-27 04:15:43,283 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:43,283 INFO Processed request fc2f408d-9c90-4759-baba-78ccabeb3c61 type=update
+2025-10-27 04:15:43,399 INFO Processed request 90facb76-839a-4e2e-9208-40aeca471345 type=create
+2025-10-27 04:15:43,461 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:43,462 INFO Processed request e6d42fe1-d4b6-4fe0-b32a-a48ad1976c09 type=delete
+2025-10-27 04:15:43,546 INFO Processed request 7bd7aeb2-c185-4ed3-9293-b9be987adc6e type=create
+2025-10-27 04:15:43,605 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:43,605 INFO Processed request 952aea75-a63e-4257-a164-3463a47e2f25 type=update
+2025-10-27 04:15:43,739 INFO Processed request 7996ab83-c7bc-43ea-93af-c243a06c750c type=create
+2025-10-27 04:15:43,822 INFO Processed request 2dccbe58-550f-4695-9705-78c1aae2dc42 type=create
+2025-10-27 04:15:43,883 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:43,884 INFO Processed request 7d6c459b-8e95-4afa-a4ba-8e8d381f6972 type=update
+2025-10-27 04:15:43,933 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:43,933 INFO Processed request 55123392-a6af-4c24-aaf9-fb02b314c686 type=delete
+2025-10-27 04:15:43,976 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:43,976 INFO Processed request 7da2c1f9-6a2b-49cb-a7ff-d5f219f5a20a type=delete
+2025-10-27 04:15:44,022 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:44,022 INFO Processed request dc74286c-c8f8-4354-8885-516d33dd65c0 type=delete
+2025-10-27 04:15:44,085 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:44,086 INFO Processed request c503f41c-115c-44f8-8278-7708cffa440e type=update
+2025-10-27 04:15:44,143 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:44,143 INFO Processed request 8326b2fd-8ed0-43c4-86ca-a7da6d351cfe type=update
+2025-10-27 04:15:44,292 INFO Processed request 131045f6-41dd-432a-99f8-9fbadf3a608f type=create
+2025-10-27 04:15:44,390 INFO Processed request 8a69eb94-ccc8-4191-94af-bb5cf82a8249 type=create
+2025-10-27 04:15:44,485 INFO Processed request b8a2a1ab-b9fc-4d88-8a64-e5b19397290c type=create
+2025-10-27 04:15:44,600 INFO Processed request 817aa8dd-ebd9-4934-a2d0-7e53f752f97e type=create
+2025-10-27 04:15:44,692 INFO Processed request c9d038bb-75c6-40d8-ba7b-35d9b091e29a type=create
+2025-10-27 04:15:44,745 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:44,745 INFO Processed request 7c8f5319-7d8c-44ab-9dc2-b12f309593aa type=delete
+2025-10-27 04:15:44,860 INFO Processed request e3d98484-fa32-4c4f-8848-60ef044d12a4 type=create
+2025-10-27 04:15:44,928 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:44,929 INFO Processed request 39a1b05d-ac4b-4652-a4a5-222056e2e4a9 type=update
+2025-10-27 04:15:45,004 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:45,005 INFO Processed request 70833022-4567-4dc9-aa73-85a2f23121c1 type=update
+2025-10-27 04:15:45,049 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:45,049 INFO Processed request e8646aa2-4fd7-4c69-9815-e4e41fb58459 type=delete
+2025-10-27 04:15:45,125 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:45,125 INFO Processed request 1cf6974a-d637-4a48-9103-a4263192a981 type=update
+2025-10-27 04:15:45,209 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:45,209 INFO Processed request 9b961e04-0277-47bf-912b-b1f1a4a643cc type=update
+2025-10-27 04:15:45,325 INFO Processed request 2b759fc2-5159-42bd-b1ee-ef848d09f604 type=create
+2025-10-27 04:15:45,419 INFO Processed request 48f93496-7415-4692-9df0-4092fa0d4268 type=create
+2025-10-27 04:15:45,476 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:45,476 INFO Processed request c8634d57-651e-44ed-8c55-90ab9a76ef69 type=update
+2025-10-27 04:15:45,535 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:45,535 INFO Processed request 52e3ccd5-b812-4053-9141-ac5ae2943500 type=update
+2025-10-27 04:15:45,617 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:45,618 INFO Processed request d4ce93cc-06c0-4954-89c0-8d6c7a14c60e type=delete
+2025-10-27 04:15:45,675 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:45,675 INFO Processed request bc488c83-53a9-458b-86ec-a400b7477db1 type=update
+2025-10-27 04:15:45,732 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:45,732 INFO Processed request 637216cb-2d53-4cc8-9943-1593c78f3646 type=update
+2025-10-27 04:15:45,785 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:45,785 INFO Processed request 292eb444-9d65-411b-b6dc-f25b9721774a type=update
+2025-10-27 04:15:45,873 INFO Processed request c82b2385-5dcf-4bef-923b-eedd14923a3d type=create
+2025-10-27 04:15:45,960 INFO Processed request 88ced9f6-5dce-4007-9150-9ab2a97e41ce type=create
+2025-10-27 04:15:46,092 INFO Processed request c8121265-41b2-4202-a503-cbf8fca3e921 type=create
+2025-10-27 04:15:46,179 INFO Processed request d5a577a2-fd6f-4ece-8901-c813efa42100 type=create
+2025-10-27 04:15:46,229 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:46,230 INFO Processed request 0c7bce52-70a8-4173-b977-7932c6e5a427 type=delete
+2025-10-27 04:15:46,319 INFO Processed request 690a6c57-7c75-4712-a870-a5a524abbe3c type=create
+2025-10-27 04:15:46,368 WARNING Request type 'delete' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:46,368 INFO Processed request caa6f726-cacf-4728-8cb9-6142c81ec64b type=delete
+2025-10-27 04:15:46,455 INFO Processed request 12475d8b-3770-4842-8117-e2c5b0b3f041 type=create
+2025-10-27 04:15:46,520 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:46,520 INFO Processed request 4ed86311-81e4-4703-8094-454ebbf1901f type=update
+2025-10-27 04:15:46,615 INFO Processed request 7248d6bf-f306-49d1-bcd8-0484edd2530c type=create
+2025-10-27 04:15:46,697 INFO Processed request b14f7257-5676-4417-b154-a6718f44e278 type=create
+2025-10-27 04:15:46,771 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:46,771 INFO Processed request cc6e5aa3-9451-4a63-8348-82a15ff17b79 type=update
+2025-10-27 04:15:46,886 INFO Processed request 211494ea-1590-478f-8b88-672029c2654f type=create
+2025-10-27 04:15:46,975 INFO Processed request 427c8f3d-c7ed-45f5-a299-cffa127582fd type=create
+2025-10-27 04:15:47,059 INFO Processed request 851e90ca-9635-4464-aba0-21704cfcb09e type=create
+2025-10-27 04:15:47,145 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:47,145 INFO Processed request 3642eaee-0829-4c31-bffc-b1e9b267bcf3 type=update
+2025-10-27 04:15:47,198 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:47,198 INFO Processed request 1879d6ce-9758-4157-9dc6-da0430582c35 type=update
+2025-10-27 04:15:47,270 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:47,270 INFO Processed request 594f8ff5-3140-4208-9379-b00870974ff7 type=update
+2025-10-27 04:15:47,388 INFO Processed request fbcd4b93-6197-44e9-aa76-550bc0db5629 type=create
+2025-10-27 04:15:47,446 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:47,446 INFO Processed request deda6935-c958-44a1-933e-90bc4aaf5c63 type=update
+2025-10-27 04:15:47,568 INFO Processed request 07ea42e7-be5e-4d43-aa6b-f6272acb9ce5 type=create
+2025-10-27 04:15:47,652 INFO Processed request 8c0f51f6-fe4d-41db-98ed-7823780f650b type=create
+2025-10-27 04:15:47,737 INFO Processed request e6c73306-f535-41e3-8646-18e7bec389c0 type=create
+2025-10-27 04:15:47,795 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:47,796 INFO Processed request 47f53873-4127-4357-8f67-95a69dd5363d type=update
+2025-10-27 04:15:47,854 WARNING Request type 'update' seen. HW6 handles create only. Skipping.
+2025-10-27 04:15:47,854 INFO Processed request cf7c2df0-cffa-4c9c-a750-3f6161a59921 type=update
